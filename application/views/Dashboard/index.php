@@ -71,11 +71,11 @@
             <div class="col-md-5 text-center probootstrap-animate">
                 <div class="probootstrap-heading dark">
                     <h1 class="primary-heading">Discover</h1>
-                    <h3 class="secondary-heading">Our Store</h3>
+                    <h3 class="secondary-heading">Sisi Barat</h3>
                     <span class="seperator">* * *</span>
                 </div>
-                <p>Voluptatibus quaerat laboriosam fugit non Ut consequatur animi est molestiae enim a voluptate totam natus modi debitis dicta impedit voluptatum quod sapiente illo saepe explicabo quisquam perferendis labore et illum suscipit</p>
-                <p><a href="#" class="probootstrap-custom-link">About Us</a></p>
+                <p>Sisi Barat Coffee, sebuah Cafe yang sangat cocok untuk tempat nongkrong dan menghabiskan waktu bersama keluarga, kerabat dan pasangan kalian. Dengan hadirnya Sisi Barat Coffee ini maka semakin bertambah tujuan hangout atau nongkrong kalian di bogor.</p>
+                <p><a href="https://www.instagram.com/sisibaratcoffee/" class="probootstrap-custom-link">About Us</a></p>
             </div>
             <div class="col-md-6 col-md-push-1 probootstrap-animate">
                 <p><img src="assets/img/discover.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></p>
@@ -91,7 +91,7 @@
             <div class="col-md-12 text-center probootstrap-animate">
                 <div class="probootstrap-heading">
                     <h2 class="primary-heading">Discover</h2>
-                    <h3 class="secondary-heading">Our Specialties</h3>
+                    <h3 class="secondary-heading">Coffe And Non Coffe</h3>
                 </div>
             </div>
         </div>
@@ -107,53 +107,51 @@
                     <div class="probootstrap-cell probootstrap-animate" data-animate-effect="fadeIn">
                         <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Baked Potato Pizza</h3>
+                            <h3>Es Kopi Sisi</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$20.99</p>
+                            <p class="price">Rp. 21,000</p>
                         </div>
                     </div>
                     <div class="probootstrap-cell reverse probootstrap-animate" data-animate-effect="fadeIn">
                         <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Salted Fried Chicken</h3>
+                            <h3>Es Kopi Sisi Barat</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$19.99</p>
+                            <p class="price">Rp. 23,000</p>
                         </div>
                     </div>
                     <div class="probootstrap-cell probootstrap-animate" data-animate-effect="fadeIn">
                         <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Imported Salmon Steak</h3>
+                            <h3>Es Kopi Strawberry</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$20.99</p>
+                            <p class="price">Rp. 23.000</p>
                         </div>
                     </div>
-
                 </div>
                 <div class="half">
-
                     <div class="probootstrap-cell probootstrap-animate" data-animate-effect="fadeIn">
                         <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Roast Beef (4 sticks)</h3>
+                            <h3>Cappucino</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$32.99</p>
+                            <p class="price">Rp. 25.000</p>
                         </div>
                     </div>
                     <div class="probootstrap-cell reverse probootstrap-animate" data-animate-effect="fadeIn">
                         <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Tuna Roast Source</h3>
+                            <h3>Caramel Latte</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$25.99</p>
+                            <p class="price">Rp. 25.000</p>
                         </div>
                     </div>
                     <div class="probootstrap-cell probootstrap-animate" data-animate-effect="fadeIn">
                         <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Fried Potatoes with Garlic</h3>
+                            <h3>Hazelnut Latte</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$32.99</p>
+                            <p class="price">Rp. 25.000</p>
                         </div>
                     </div>
 
@@ -169,7 +167,7 @@
             <div class="col-md-12 text-center probootstrap-animate">
                 <div class="probootstrap-heading">
                     <h2 class="primary-heading">Discover</h2>
-                    <h3 class="secondary-heading">Our Specialties</h3>
+                    <h3 class="secondary-heading">Our Meals</h3>
                 </div>
             </div>
         </div>
@@ -181,60 +179,56 @@
         <div class="row">
             <div class="probootstrap-cell-retro">
                 <div class="half">
-
                     <div class="probootstrap-cell probootstrap-animate" data-animate-effect="fadeIn">
-                        <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
+                        <div class="image" style="background-image: url(assets/img/makanan.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Baked Potato Pizza</h3>
+                            <h3>Nasi Goreng</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$20.99</p>
+                            <p class="price">Rp. 25.000</p>
                         </div>
                     </div>
                     <div class="probootstrap-cell reverse probootstrap-animate" data-animate-effect="fadeIn">
-                        <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
+                        <div class="image" style="background-image: url(assets/img/makanan.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Salted Fried Chicken</h3>
+                            <h3>Nasi Goreng Special</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$19.99</p>
+                            <p class="price">Rp. 30.000</p>
                         </div>
                     </div>
                     <div class="probootstrap-cell probootstrap-animate" data-animate-effect="fadeIn">
-                        <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
+                        <div class="image" style="background-image: url(assets/img/makanan.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Imported Salmon Steak</h3>
+                            <h3>Mie Goreng Sibar</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$20.99</p>
+                            <p class="price">Rp. 25.000</p>
                         </div>
                     </div>
-
                 </div>
                 <div class="half">
-
                     <div class="probootstrap-cell probootstrap-animate" data-animate-effect="fadeIn">
-                        <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
+                        <div class="image" style="background-image: url(assets/img/makanan.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Roast Beef (4 sticks)</h3>
+                            <h3>Chicken Karage</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$32.99</p>
+                            <p class="price">Rp. 28.000</p>
                         </div>
                     </div>
                     <div class="probootstrap-cell reverse probootstrap-animate" data-animate-effect="fadeIn">
-                        <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
+                        <div class="image" style="background-image: url(assets/img/makanan.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Tuna Roast Source</h3>
+                            <h3>Chicken Wings</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$25.99</p>
+                            <p class="price">Rp. 27.000</p>
                         </div>
                     </div>
                     <div class="probootstrap-cell probootstrap-animate" data-animate-effect="fadeIn">
-                        <div class="image" style="background-image: url(assets/img/minuman.jpg);"></div>
+                        <div class="image" style="background-image: url(assets/img/makanan.jpg);"></div>
                         <div class="text text-center">
-                            <h3>Fried Potatoes with Garlic</h3>
+                            <h3>French Fries</h3>
                             <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam.</p>
-                            <p class="price">$32.99</p>
+                            <p class="price">Rp. 21.000</p>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
